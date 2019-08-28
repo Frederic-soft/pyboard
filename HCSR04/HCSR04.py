@@ -78,4 +78,4 @@ class HCSR04:
 		self.echo.init(pyb.Pin.OUT_PP)
 		self.echo.value(0)
 		pyb.delay(100)
-		self.echo.init(Pyb.Pin.IN, pyb.Pin.PULL_NONE)
+		self.echo.init(pyb.Pin.IN, pyb.Pin.PULL_NONE)
