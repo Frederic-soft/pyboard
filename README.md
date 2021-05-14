@@ -1,5 +1,5 @@
 # pyboard
-Micropython modules for the pyboard
+Pyboard-specific Micropython modules
 
 * [AdafruitMotorshieldV2](./AdafruitMotorshieldV2) allows the pyboard to control stepper motors, DC motors and servomotors using Adafruit's motor shield V2 for the Arduino.
 * [BME280](./BME280) allows the pyboard to measure the atmospheric temperature, pressure and relative humidity thanks to the BME280 sensor.
